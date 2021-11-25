@@ -1,2 +1,3 @@
 # Geogo_Assignment_1
-Geogo resume buiding Assignment using Html and css.
+Geogo Assignment on creating Resposive Resume using Html and css.
+
