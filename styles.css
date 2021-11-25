@@ -1,0 +1,59 @@
+body
+{
+ font-family: Arial,Impact, Haettenschweiler, sans-serif;
+font-size: 1em;
+ margin:2%;
+}
+@media screen and (min-width: 900px){ 
+body{
+    font-size: 1.5vw;
+}
+.details div{
+   display:inline-block;
+    width:45%;
+    margin:2%;
+    float:left;
+}
+
+}
+
+.head{
+    margin:1%;
+    height:10%
+}
+.head div{
+    vertical-align: middle;
+    padding:2% 4%;
+    display: inline-block;
+}
+
+img{
+    vertical-align: middle;
+    border-radius: 50%;
+    min-width:150px;
+    width:20%;
+}
+.details{
+    padding:5% 2%;
+    font-size: 1em;
+}
+.details header{
+    font-size: 1.5em;
+}
+.details span{
+    font-size: 1.2em;
+}
+
+.projects p{
+    text-align: justify;
+}
+.edu{
+    font-size: 1.2em;
+}
+.edu span{
+    font-size: 1em;
+    color: #6b6b6f;
+}
+.certi span{
+    font-weight: bold;
+}
